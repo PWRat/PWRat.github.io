@@ -1,6 +1,6 @@
 ---
 title: Hello Homelab
-date: 2023-MAR-05 16:38 -600
+date: 2023-MAR-05 16:38:01 -600
 categories: [homelab,hardware]
 tags: [servers,hp]
 ---
