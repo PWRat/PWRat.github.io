@@ -19,12 +19,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PWR Lab                          # the main title
+title: PWR IO                          # the main title
 
-tagline: Homelab Documentation and Experimentation   # it will display as the sub-title
+tagline: Tech thoughts and motorcycle dreams   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-     A doc site for my homelab stuff
+     Tech stuff I find cool, with a sprinking of Motorcycles for good measure
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://pwrat.io'
 
@@ -32,7 +32,7 @@ github:
   username: PWRat             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: @PatrickRateliff            # change to your twitter username
 
 social:
   # Change to your full name.
